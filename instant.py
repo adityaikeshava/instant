@@ -1,6 +1,4 @@
-from fastapi import FastAPI  # type: ignore
-from fastapi.responses import HTMLResponse  # type: ignore
-from openai import OpenAI  # type: ignore
+from fastapi import FastAPI
 
 app = FastAPI()
 
